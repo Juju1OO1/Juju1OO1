@@ -4,8 +4,10 @@
 - 🌱 I’m currently learning JS Frameworks.
 - 📫 How to reach me j19991001@gmail.com.
 - 🧠 About my repos.....
-  - 👵**eCare** is my inclass project which performs a platform for communication between care attendants and dependents.
-  - 📄**nccu2024_Group11** is a AWS web app. A tool to help masters to come up with summary for a scholar paper. 
+  - 👵 **eCare** is my inclass project which performs a platform for communication between care attendants and dependents.
+  - 📄 **nccu2024_Group11** is a AWS web app. A tool to help masters to come up with summary for a scholar paper.
+  - 😷 *8covid19** is a R project tp show traces of confirmed diagnosis through time.
+
 
 <!---
 Juju1OO1/Juju1OO1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
