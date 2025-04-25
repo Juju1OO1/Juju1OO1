@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Juju1OO1
-- 🏫 Pursuing my master’s degree in information system management in NCCU.
-- 👀 I’m interested in system development.
-- 🌱 I’m currently learning JS Frameworks.
-- 📫 How to reach me j19991001@gmail.com.
-- 🧠 About my repos.....
-  - 👵 **eCare** is my inclass project which performs a platform for communication between care attendants and dependents.
-  - 📄 **nccu2024_Group11** is a AWS web app. A tool to help masters to come up with summary for a scholar paper.
-  - 😷 **covid19** is a R project tp show traces of confirmed diagnosis through time.
+- 👋 Hi, I’m @Juju1OO1  
+- 🏫 I’m pursuing my master’s degree in Information Systems Management at NCCU.  
+- 👀 I’m interested in system development.  
+- 🌱 I’m currently learning JavaScript frameworks.  
+- 📫 You can reach me at j19991001@gmail.com.  
+- 🧠 About my repositories:  
+  - 👵 **eCare** – A platform for communication between care attendants and dependents.  
+  - 📄 **nccu2024_Group11** – An AWS web app that helps master's students summarize scholarly papers.  
+  - 😷 **covid19** – An R project to visualize the progression of confirmed cases over time.  
+  - ☕️ **MyJava** – Some protocol experiments, including HTTPs and TFTP.  
+  - 📝 **todolist** – A basic web app for managing tasks.  
+  - 🏥 **data_visualization_final** – A web app for collecting and visualizing medical resources in Taiwan.
+
 
 
 <!---
