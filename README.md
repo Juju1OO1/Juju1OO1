@@ -6,7 +6,7 @@
 - 🧠 About my repos.....
   - 👵 **eCare** is my inclass project which performs a platform for communication between care attendants and dependents.
   - 📄 **nccu2024_Group11** is a AWS web app. A tool to help masters to come up with summary for a scholar paper.
-  - 😷 *8covid19** is a R project tp show traces of confirmed diagnosis through time.
+  - 😷 **covid19** is a R project tp show traces of confirmed diagnosis through time.
 
 
 <!---
